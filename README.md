@@ -1,4 +1,4 @@
-```html
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
@@ -48,16 +48,15 @@
 <br>
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/markson-c%C3%A9sar-618367126?trk=contact-info">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:markson.c53@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="https://github.com/SEU_USUARIO_GITHUB">
+  <a href="https://github.com/Markson22">
     <img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
-```
